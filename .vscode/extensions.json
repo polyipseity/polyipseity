@@ -7,6 +7,7 @@
     "GitHub.copilot-chat",
     "redhat.vscode-yaml",
     "streetsidesoftware.code-spell-checker",
+    "sst-dev.opencode-v2",
     "tamasfe.even-better-toml"
   ]
 }
